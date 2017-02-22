@@ -8,9 +8,19 @@
 
 #main-well {
   background-color: grey;
+  border-color: white;
+  border-width: 5px;
 }
 
 body {
   background-color: black;
   font-family: "Futura";
+}
+
+p {
+    font-size: 20px;
+}
+
+#heading {
+    font-size: 50px;
 }
