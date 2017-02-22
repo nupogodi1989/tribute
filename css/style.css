@@ -1,0 +1,16 @@
+.row {
+  padding: 50px;
+}
+
+.psychedelic-purple {
+  color: #D00EEA;
+}
+
+#main-well {
+  background-color: grey;
+}
+
+body {
+  background-color: black;
+  font-family: "Futura";
+}
